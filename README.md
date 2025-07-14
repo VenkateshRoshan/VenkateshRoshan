@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi there! I'm Butchi Venkatesh Adari
 
-<!--
-**VenkateshRoshan/VenkateshRoshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer | Robotics Enthusiast | Researcher  
+🤖 Exploring AI and Robotics to build intelligent, real-world systems.
 
-Here are some ideas to get you started:
+🔍 Interests:  
+- Deep Learning • Computer Vision • Reinforcement Learning  
+- Multimodal AI • Robotics • Edge Deployment  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 M.S. Robotics Engineering @ WPI  
+🔬 Graduate Researcher @ ELPIS Lab  
+💼 Ex-ML Engineer @ TCS | Built real-time CV + NLP systems
+
+📎 Portfolio: [venkateshroshan.github.io](https://venkateshroshan.github.io)  
+🔗 LinkedIn: [linkedin.com/in/abven](https://www.linkedin.com/in/abven)
+
+---
+
+🚀 Currently working on autonomous drones, multimodal agents, and grasping with transformers.
