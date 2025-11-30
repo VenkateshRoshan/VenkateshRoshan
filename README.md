@@ -8,8 +8,8 @@ Machine Learning Engineer | Robotics Enthusiast | Researcher
 - Multimodal AI • Robotics • Edge Deployment  
 ---
 
-📚 B.Tech Computer Science Engineering @ ANITS
-📚 M.S. Robotics Engineering @ WPI  
+- 📚 B.Tech Computer Science Engineering @ ANITS
+- 📚 M.S. Robotics Engineering @ WPI  
 ---
 
 - Graduate Researcher @ ELPIS Lab  
