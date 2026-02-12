@@ -9,16 +9,17 @@ Machine Learning Engineer | Robotics Enthusiast | Researcher
 ---
 
 - 📚 B.Tech Computer Science Engineering @ ANITS
-- 📚 M.S. Robotics Engineering @ WPI  
+- 📚 M.S. Robotics Engineering @ WPI
+
 ---
 
+- Founding Machine Learning Engineer @ AlphevaAI | Building Multi-Agentic pipeline
 - Graduate Researcher @ ELPIS Lab  
 - Ex-ML Engineer @ TCS | Built real-time CV + NLP systems
-- Co-Founder & Machine Learning Engineer @ AlphevaAI | Building Multi-Agentic pipeline
 
 Portfolio: [venkateshroshan.github.io](https://venkateshroshan.github.io)  
 LinkedIn: [linkedin.com/in/abven](https://www.linkedin.com/in/abven)
 
 ---
 
-🚀 Currently working on autonomous drones, multimodal agents, and grasping with transformers.
+🚀 Currently working on multi-modal agents and BCI with exo-skeleton robotics.
