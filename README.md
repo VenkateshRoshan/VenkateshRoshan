@@ -12,8 +12,8 @@ Machine Learning Engineer | Robotics Enthusiast | Researcher
 - 📚 M.S. Robotics Engineering @ WPI
 
 ---
-
-- Founding Machine Learning Engineer @ AlphevaAI | Building Multi-Agentic pipeline
+- Applied AI Scientist @ Sirrus.ai
+- Ex-Founding Machine Learning Engineer @ AlphevaAI | Building Multi-Agentic pipeline
 - Graduate Researcher @ ELPIS Lab  
 - Ex-ML Engineer @ TCS | Built real-time CV + NLP systems
 
